@@ -9,7 +9,8 @@
 example run:
 
 - node index.js
-  // that will run with default variables in index.js
+
+that will run with default variables in index.js
 
 #### -sudo command
 
